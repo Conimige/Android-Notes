@@ -1,4 +1,4 @@
-关于遇到Android Studio开发中遇到修改compileSdkVersion或者导入其他人工程时出现奇怪的异常
+# 关于遇到Android Studio开发中遇到修改compileSdkVersion或者导入其他人工程时出现奇怪的异常
 
 报错位置：
 诸如以下的错误
